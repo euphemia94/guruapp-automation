@@ -1,2 +1,2 @@
 # guruapp-automation
-test og guruapp
+testing of guruapp
