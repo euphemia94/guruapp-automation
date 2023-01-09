@@ -1,2 +1,2 @@
 # guruapp-automation
-testing of guruapp
+testing of guruapp using cypress
